@@ -5,3 +5,11 @@
 body { 
     background-color: gray;
 }
+
+
+a {
+    text-decoration: none;
+    color: #800000; /* Цвет текста */
+    background: #ffc; /* Цвет фона */
+    padding: 2px;
+}
